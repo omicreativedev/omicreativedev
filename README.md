@@ -1,4 +1,4 @@
-[![An image of @omicreativedev's Holopin badges](https://holopin.io/@omicreativedev)
+[![](https://holopin.io/api/user/board?user=omicreativedev)](https://holopin.io/@omicreativedev)
 <br>
 [![](http://github-readme-streak-stats.herokuapp.com?user=omicreativedev&theme=dark&background=000000)](https://git.io/streak-stats)
 <br>
