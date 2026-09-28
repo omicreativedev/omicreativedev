@@ -1,4 +1,4 @@
-[![](https://holopin.io/api/user/board?user=omicreativedev)](https://holopin.io/@omicreativedev)
+[![My Holopin](https://www.holopin.me/omicreativedev)](https://holopin.io/@omicreativedev)
 <br>
 [![](http://github-readme-streak-stats.herokuapp.com?user=omicreativedev&theme=dark&background=000000)](https://git.io/streak-stats)
 <br>
@@ -12,3 +12,4 @@ Socials:
 - LinkedIn: https://www.linkedin.com/in/sshunamon/
 - Dev: https://dev.to/omicreativedev
   
+
